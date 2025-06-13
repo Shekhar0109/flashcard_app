@@ -54,3 +54,5 @@ UI improvements
 
 🧑‍💻 Author
 Made with ❤️ by Shekhar0109
+![Screenshot 2025-06-14 003928](https://github.com/user-attachments/assets/1b01160f-ad60-4d76-a489-f8a457daa2e7)
+
