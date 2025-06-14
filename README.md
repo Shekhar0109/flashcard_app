@@ -45,12 +45,12 @@ Click the Generate button.
 
 Review your generated flashcards instantly.
 
-💡 Future Ideas
-PDF or DOCX input support
-
-Export flashcards to CSV or Anki format
-
-UI improvements
+💡 Future Ideas:-
+  PDF or DOCX input support
+ 
+  Export flashcards to CSV or Anki format
+ 
+  UI improvements
 
 🧑‍💻 Author
 Made with ❤️ by Shekhar0109
